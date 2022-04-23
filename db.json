@@ -1,0 +1,22 @@
+{
+  "student": [
+    {
+      "username": "satendra",
+      "age": "25",
+      "address": "ghaziabad",
+      "dept": "IT",
+      "marital": "false",
+      "salary": "10000000",
+      "id": 1
+    },
+    {
+      "username": "vipin",
+      "age": "22",
+      "address": "404/3 chhalera village, noida",
+      "dept": "IT",
+      "marital": "false",
+      "salary": "232323",
+      "id": 2
+    }
+  ]
+}
